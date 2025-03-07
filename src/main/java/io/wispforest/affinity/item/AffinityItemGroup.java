@@ -158,6 +158,7 @@ public class AffinityItemGroup {
             entries.add(STABILIZED_ARTIFACT_BLADE);
             entries.add(STRENGTHENED_ARTIFACT_BLADE);
             entries.add(SUPERIOR_ARTIFACT_BLADE);
+            entries.add(ABYSSAL_ARTIFACT_BLADE);
             entries.add(ASTRAL_ARTIFACT_BLADE);
             entries.add(RESOUNDING_CHIME);
             entries.add(AZALEA_BOW);
