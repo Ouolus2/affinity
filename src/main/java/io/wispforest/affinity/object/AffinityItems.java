@@ -109,6 +109,7 @@ public class AffinityItems implements ItemRegistryContainer {
     public static final Item STABILIZED_ARTIFACT_BLADE = new ArtifactBladeItem(ArtifactBladeItem.Tier.STABILIZED);
     public static final Item STRENGTHENED_ARTIFACT_BLADE = new ArtifactBladeItem(ArtifactBladeItem.Tier.STRENGTHENED);
     public static final Item SUPERIOR_ARTIFACT_BLADE = new ArtifactBladeItem(ArtifactBladeItem.Tier.SUPERIOR);
+     public static final Item SUPERIOR_ARTIFACT_BLADE = new ArtifactBladeItem(ArtifactBladeItem.Tier.ABYSSAL);
     public static final Item ASTRAL_ARTIFACT_BLADE = new ArtifactBladeItem(ArtifactBladeItem.Tier.ASTRAL);
     public static final Item RESOUNDING_CHIME = new ResoundingChimeItem();
     public static final Item AZALEA_BOW = new AzaleaBowItem();
